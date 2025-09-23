@@ -1,0 +1,17 @@
+C:\Projeler\ChatLan\ChatLan\ChatLan\bin\Debug\net9.0-windows\ChatLan.exe
+C:\Projeler\ChatLan\ChatLan\ChatLan\bin\Debug\net9.0-windows\ChatLan.deps.json
+C:\Projeler\ChatLan\ChatLan\ChatLan\bin\Debug\net9.0-windows\ChatLan.runtimeconfig.json
+C:\Projeler\ChatLan\ChatLan\ChatLan\bin\Debug\net9.0-windows\ChatLan.dll
+C:\Projeler\ChatLan\ChatLan\ChatLan\bin\Debug\net9.0-windows\ChatLan.pdb
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\ChatLan.csproj.GenerateResource.cache
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\ChatLan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\ChatLan.AssemblyInfoInputs.cache
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\ChatLan.AssemblyInfo.cs
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\ChatLan.csproj.CoreCompileInputs.cache
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\ChatLan.dll
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\refint\ChatLan.dll
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\ChatLan.pdb
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\ChatLan.genruntimeconfig.cache
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\ref\ChatLan.dll
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\LanChatApp.ChatForm.resources
+C:\Projeler\ChatLan\ChatLan\ChatLan\obj\Debug\net9.0-windows\LanChatApp.Form1.resources
