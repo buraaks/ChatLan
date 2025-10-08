@@ -8,24 +8,19 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\İpek\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\burak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projeler\\LanChatApp\\LanChatApp\\LanChatApp\\LanChatApp.csproj",
+      "projectUniqueName": "C:\\Users\\burak\\OneDrive\\Desktop\\ChatLan\\LanChatApp\\LanChatApp\\LanChatApp.csproj",
       "projectName": "LanChatApp",
-      "projectPath": "C:\\Projeler\\LanChatApp\\LanChatApp\\LanChatApp\\LanChatApp.csproj",
-      "packagesPath": "C:\\Users\\İpek\\.nuget\\packages\\",
-      "outputPath": "C:\\Projeler\\LanChatApp\\LanChatApp\\LanChatApp\\obj\\",
+      "projectPath": "C:\\Users\\burak\\OneDrive\\Desktop\\ChatLan\\LanChatApp\\LanChatApp\\LanChatApp.csproj",
+      "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\burak\\OneDrive\\Desktop\\ChatLan\\LanChatApp\\LanChatApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\İpek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,6 +62,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.9, 9.0.9]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[9.0.9, 9.0.9]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.9, 9.0.9]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[9.0.9, 9.0.9]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

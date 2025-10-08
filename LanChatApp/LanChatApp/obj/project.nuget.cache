@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ABOAbK7sHL8=",
+  "dgSpecHash": "81ELVwaJgk4=",
   "success": true,
-  "projectFilePath": "C:\\Projeler\\LanChatApp\\LanChatApp\\LanChatApp\\LanChatApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\burak\\OneDrive\\Desktop\\ChatLan\\LanChatApp\\LanChatApp\\LanChatApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.9\\microsoft.windowsdesktop.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.9\\microsoft.netcore.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.9\\microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.9\\microsoft.netcore.app.host.win-x64.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
